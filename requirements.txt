@@ -1,0 +1,12 @@
+javaproperties==0.4.0
+numpy==1.14.4
+pur==5.0.0
+pyautogui==0.9.36
+python-xlib==0.23
+robotframework==3.0.4
+robotframework-javaproperties
+robotframework-seleniumlibrary==3.1.1
+robotframework-sshlibrary==3.0.0
+scipy==1.1.0
+scikit-image==0.14.0
+selenium==3.12.0
